@@ -200,3 +200,6 @@ This repository serves as the official landing page for SOULCALIBUR VI. The soft
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SOULCALIBUR VI today!**
+
+---
+**Last updated:** 2026-11-06 00:35:56 UTC
