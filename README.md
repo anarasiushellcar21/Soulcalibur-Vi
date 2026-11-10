@@ -202,4 +202,4 @@ This repository serves as the official landing page for SOULCALIBUR VI. The soft
 **Get the most recent version of SOULCALIBUR VI today!**
 
 ---
-**Last updated:** 2026-11-10 15:53:53 UTC
+**Last updated:** 2026-11-10 21:31:17 UTC
